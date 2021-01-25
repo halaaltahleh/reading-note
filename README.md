@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# My name is Hala ALtahleh , I was born in Amman-Jordan on seventh of July 1996 , I studied civil engineering at ALbalqaa Applied University .
 
-You can use the [editor on GitHub](https://github.com/halaaltahleh/reading-note/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+##  Growth Mindset
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Growth Mindset is a believe in yourself regardless of your talent, it's a believe in that practice makes everything, just by practice you can make the impossible possible. 
 
-```markdown
-Syntax highlighted code block
+There are keys that remind me to stay in the state of **Growth Mindset**, which are:
+1. I need stop *seeking approval*
+2. Make some actions everyday which motivate me to keep going on the right way, like watching a specific type of videos.
+3. Provide regular opportunities to reflection . 
 
-# Header 1
-## Header 2
-### Header 3
+Here is some of links for Markdown
+Number | code links
+------ | -----
+1 | [Basicc of coding at markdown](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+2 | [Advanced coding](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/halaaltahleh/reading-note/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
