@@ -12,10 +12,10 @@ There are keys that remind me to stay in the state of **Growth Mindset**, which 
 3. Provide regular opportunities to reflection . 
 
 Here is some of links for Markdown
-Number | code links
------- | -----
-1 | [Basicc of coding at markdown](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
-2 | [Advanced coding](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting)
+| Number | code links |
+| ------ | ---------- |
+| 1 | [Basicc of coding at markdown](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) |
+| 2 | [Advanced coding](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting) |
 
 
 
