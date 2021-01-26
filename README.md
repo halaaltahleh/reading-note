@@ -15,8 +15,8 @@ Here is some of links for Markdow
 
 | Number      |  code links |
 | ----------- | ----------- |
-| 1      | [read2a](https://halaaltahleh.github.io/reading-notes/)       |
-| 2   |  [read2b](https://halaaltahleh.github.io/reading-notes/)         |
+| 1      | [read2a](https://halaaltahleh.github.io/reading-notes/read2a)       |
+| 2   |  [read2b](https://halaaltahleh.github.io/reading-notes/read2b)         |
 | read3   |  [read3](https://halaaltahleh.github.io/reading-notes/read3)         |
 
 
