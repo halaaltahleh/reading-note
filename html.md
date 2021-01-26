@@ -1,5 +1,5 @@
 ### HTML 
-HTML (HyperText Markup Language) is the most basic building block of the Web
+HTML (HyperText Markup Language) is the most basic building block of the Web .
 
 
 
@@ -8,12 +8,10 @@ The **Wireframe** in HTML
 
 
 
-
-
 ## Structure web pages with HTML
 
 Basic structure of a Web page - html, head and body
-To create a web page you need an HTML document using three elements or tags major that any website uses: html, head and body , and you must be use two tags begin tag and end tag .
+To create a web page you need an HTML document using three elements or tags major that any website uses: html, head and body , and you must be use two tags begin tag and end tag `<>` , `</>`
 
 ## These three combine to describe the basic structure of the page:
 
@@ -21,7 +19,7 @@ To create a web page you need an HTML document using three elements or tags majo
 <head>: This element designates the header part of the document. You can include optional information about the Web page, such as the title (the browser shows it in the title bar), optional search keywords and an optional style sheet
 <body>: This element contains the content of your Web page, that is, what we want to appear in the navigation area of the browser
 
-'<header>
+`<header>
 <h1>Yoko's Kitchen</h1>
 <nav>
  <ul>
@@ -32,5 +30,5 @@ To create a web page you need an HTML document using three elements or tags majo
  <li><a href="">contact</a></li>
  </ul>
 </nav>
-</header>'
+</header>`
 
