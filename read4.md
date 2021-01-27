@@ -29,12 +29,13 @@ there are two types of expressions.
 ## OPERATORS :
 Expressions rely on things called operators; they allow programmers to
 create a single value from one or more values. 
-ther are three types of operators :
-## 1- ARITHMETIC OPERATORS
+ther are *three types of operators* :
+**1- ARITHMETIC OPERATOR** 
 ![arithmatic operators](https://www.devopsschool.com/blog/wp-content/uploads/2020/07/JavaScript-Arithmatic-Operators.png)
 
-## 2- logical operators 
-## 3- 
+**2- logical operators** 
+ **3-Comparison operators** 
+ **Conditional operators.**
 
 
 
