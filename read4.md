@@ -29,8 +29,14 @@ there are two types of expressions.
 ## OPERATORS :
 Expressions rely on things called operators; they allow programmers to
 create a single value from one or more values. 
-1- ARITHMETI C OPERATORS
+
+## 1- ARITHMETIC OPERATORS
 ![arithmatic operators](https://www.devopsschool.com/blog/wp-content/uploads/2020/07/JavaScript-Arithmatic-Operators.png)
+
+## 2- STRING OPERATOR 
+## 3- 
+
+
 
 
 
