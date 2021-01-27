@@ -24,7 +24,15 @@ understands .
 An expression evaluates into (results in) a single value. Broadly speaking 
 there are two types of expressions. 
 1- expression that just assign avalue to avariable. expmle : `var color = 'beige';`
-2- EXPRESSIONS THAT USE TWO OrMORE VALUES TO RETURN ASINGLE VALUE exmaple : `var area = 3 * 2;` 
+2- EXPRESSIONS THAT USE TWO OrMORE VALUES TO RETURN ASINGLE VALUE exmaple : `var area = 3 * 2;`
+
+## OPERATORS :
+Expressions rely on things called operators; they allow programmers to
+create a single value from one or more values. 
+1- ARITHMETI C OPERATORS
+![arithmatic operators](https://www.devopsschool.com/blog/wp-content/uploads/2020/07/JavaScript-Arithmatic-Operators.png)
+
+
 
 
 
