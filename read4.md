@@ -35,7 +35,7 @@ ther are *three types of operators* :
 
 **2- logical operators** 
  **3-Comparison operators** 
- **Conditional operators.**
+ **4-Conditional operators.**
 
 
 
