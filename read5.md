@@ -13,4 +13,3 @@ You can evaluate a situation by comparing one value in the script to what you ex
 **Less than <**
 **Greater than or equal >=**
 **less than or equal <=**
-
