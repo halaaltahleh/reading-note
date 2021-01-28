@@ -17,8 +17,9 @@ You can evaluate a situation by comparing one value in the script to what you ex
 ## Logical operators :
 Logical operators allow you to compare the results of more than one comparison operator.
 **Logical AND &&**
-**Logical NOT !**
-**LOOP**
+**Logical NOT !**  
+
+##LOOP
 Loops chek a condetion.if it returns true,a code block will run.then the condition will be checked again and if it still returns true,the code block will run again.it repeats until the condition returns false.
 there are three common types of loops :
 1- FOR  2- WHILE   3-DO WHILE
