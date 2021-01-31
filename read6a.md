@@ -25,3 +25,5 @@ Function**parameters** are listed inside the parentheses `()` in the function de
 Function **arguments** are the values received by the function when it is invoked.
 
 Inside the function, the arguments (the parameters) behave as local variables
+**Function Return**
+When JavaScript reaches a return statement, the function will stop executing.
