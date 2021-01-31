@@ -28,6 +28,9 @@ several properties in one declaration, each separated by a semi-colon.
  * (rgb values):`example: rgb(100,100,90)`
  * (hex codes):`For example: #ee3e80`
  * (color names) :`For example:DarkCyan`
+
+
+ 
  ![css2](https://lh3.googleusercontent.com/proxy/82oaXCxZ5wTyJglk376jruDMeWXmviLN9KzdlMOH2x5wK8VaZEnAEAu-3c3RtUkwIl7o8vpvI7FN33DumCSjRDXZzpeJrR6015m6R1XS0csdeIg8SQtrfxlVNYV10g)
 
  ## color in css:
