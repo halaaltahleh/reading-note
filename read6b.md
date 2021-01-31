@@ -20,7 +20,7 @@ CSS declarations sit inside curly brackets and each is made up of two
 parts: a property and a value, separated by a colon. You can specify
 several properties in one declaration, each separated by a semi-colon.
 ![css](https://3wga6448744j404mpt11pbx4-wpengine.netdna-ssl.com/wp-content/uploads/2012/10/css-rule.jpg)
-![css2](https://lh3.googleusercontent.com/proxy/82oaXCxZ5wTyJglk376jruDMeWXmviLN9KzdlMOH2x5wK8VaZEnAEAu-3c3RtUkwIl7o8vpvI7FN33DumCSjRDXZzpeJrR6015m6R1XS0csdeIg8SQtrfxlVNYV10g)
+
 
 # color:
  **Color can really bring your pages to life.**
@@ -28,6 +28,7 @@ several properties in one declaration, each separated by a semi-colon.
  * (rgb values):`example: rgb(100,100,90)`
  * (hex codes):`For example: #ee3e80`
  * (color names) :`For example:DarkCyan`
+ ![css2](https://lh3.googleusercontent.com/proxy/82oaXCxZ5wTyJglk376jruDMeWXmviLN9KzdlMOH2x5wK8VaZEnAEAu-3c3RtUkwIl7o8vpvI7FN33DumCSjRDXZzpeJrR6015m6R1XS0csdeIg8SQtrfxlVNYV10g)
 
  ## color in css:
  ![color](https://blog.hubspot.com/hs-fs/hubfs/Google%20Drive%20Integration/Draft%20-%20CSS%20Colors-4.png?width=600&name=Draft%20-%20CSS%20Colors-4.png)
